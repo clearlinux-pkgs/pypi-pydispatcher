@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pydispatcher
-URL = https://files.pythonhosted.org/packages/cd/37/39aca520918ce1935bea9c356bcbb7ed7e52ad4e31bff9b943dfc8e7115b/PyDispatcher-2.0.5.tar.gz
+URL = https://files.pythonhosted.org/packages/a7/99/9db7d8b5a04596cde1c94e79db26c9a755015abdbdc88dec7e7e506eafbb/PyDispatcher-2.0.6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
